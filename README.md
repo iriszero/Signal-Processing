@@ -3,6 +3,5 @@ An undergraduate Course
 
 
 # How to execute
-cmake .
-make
+After compiling, <br>
 ./untitled lena.bmp lena_HPF.bmp lena_gaussian.bmp > result.txt
