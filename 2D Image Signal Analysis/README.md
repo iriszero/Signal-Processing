@@ -1,7 +1,8 @@
 # Signal-Processing
-An undergraduate Course
+An Undergraduate Course
 
 
 # How to execute
-After compiling, <br>
-./untitled lena.bmp lena_HPF.bmp lena_gaussian.bmp > result.txt
+bin/main [../img/lena.bmp, ../img/lena_HPF.bmp, or ../img/lena_gaussian.bmp"]
+
+It would print the frequency component of some designated areas of the image as a histogram.
